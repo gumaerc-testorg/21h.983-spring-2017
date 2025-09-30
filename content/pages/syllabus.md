@@ -66,8 +66,8 @@ Participation
 
 ## Required Texts
 
- Perreau, Bruno. *Queer Theory: The French Response*. Stanford University Press, 2016. ISBN: 9781503600447.  \[Preview with [Google Books](https://books.google.com/books?id=p9K1DQAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+ Perreau, Bruno. *Queer Theory: The French Response*. Stanford University Press, 2016. ISBN: 9781503600447.  \[Preview with {{% resource_link "b9bc3340-01ae-4932-a8e1-0a8cc7d1747c" "Google Books" %}}\]
 
-Rose, Sonya O. *What is Gender History?* Polity, 2010. ISBN: 9780745646152. \[Preview with [Google Books](https://books.google.com/books?id=En-SCyPoaFkC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Rose, Sonya O. *What is Gender History?* Polity, 2010. ISBN: 9780745646152. \[Preview with {{% resource_link "fd41fd35-5527-47e8-8523-8a682f2b45d5" "Google Books" %}}\]
 
 For additional readings, see the {{% resource_link "9a34207a-2bbc-46ec-54e1-71e6816407f0" "Readings" %}} section.
