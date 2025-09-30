@@ -45,7 +45,7 @@ Statement of research area due
 5
 {{< tdclose >}}{{< tdopen >}}
 Gender and Intersectionality   
-*Guest speaker:* [*Professor Sally Haslanger*](http://web.mit.edu/philosophy/haslanger.html)*, MIT, Linguistics and Philosophy Department*
+*Guest speaker:* {{% resource_link "2c45dc3f-8e9a-4f32-96a3-bddcee7630fd" "*Professor Sally Haslanger*" %}}*, MIT, Linguistics and Philosophy Department*
 {{< tdclose >}}{{< tdopen >}}
 Essay 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -58,21 +58,21 @@ Gender and the State \[EW\]
 7
 {{< tdclose >}}{{< tdopen >}}
 “The Woman Question”   
-*Guest speaker:* [*Karen Offen*](http://gender.stanford.edu/people/karen-offen)*, Ph.D., Stanford University, The Clayman Institute for Gender Research.*
+*Guest speaker:* {{% resource_link "675761a6-55ed-4e3f-a081-9783650bc2e5" "*Karen Offen*" %}}*, Ph.D., Stanford University, The Clayman Institute for Gender Research.*
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
 Men and Masculinity \[EW\]   
-*Guest speaker:* [*Professor Betul Eksi*](https://globalresilience.northeastern.edu/profile/eksi-betul/)*, Northeastern University Humanities Center*
+*Guest speaker:* {{% resource_link "0ee9c36f-a25f-4a0f-af46-d4b9c1ef4669" "*Professor Betul Eksi*" %}}*, Northeastern University Humanities Center*
 {{< tdclose >}}{{< tdopen >}}
 Statement of research evidence, sources, methodology, and journals due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
 Gender and War   
-*Guest speaker:* [*Professor Christopher Capozzola*](http://history.mit.edu/people/christopher-capozzola)*, MIT, History Department*
+*Guest speaker:* {{% resource_link "cb315e9f-8259-43ae-9657-f91aa6079e35" "*Professor Christopher Capozzola*" %}}*, MIT, History Department*
 {{< tdclose >}}{{< tdopen >}}
 Essay 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -103,7 +103,7 @@ Research paper due
 14
 {{< tdclose >}}{{< tdopen >}}
 Queer Theory   
-*Guest speaker:* [*Professor Bruno Perreau*](https://lit.mit.edu/bruno-perreau/)*, MIT, Literature Department*
+*Guest speaker:* {{% resource_link "65b7e11f-5ca2-4063-86dd-6d1d298e4285" "*Professor Bruno Perreau*" %}}*, MIT, Literature Department*
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
